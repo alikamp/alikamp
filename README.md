@@ -9,3 +9,4 @@ I build open tools and methods for hard problems in scientific computing.
 - **[PTSF Engine](https://ptsf-engine.vercel.app)**: a live SAT engine that resolves SAT Competition 2024 instances Kissat 4.0.4 cannot.
 
 💖 **[Sponsor my work](https://github.com/sponsors/alikamp)**: I'm raising funds to present at IEEE BigData 2026 in Phoenix (Dec 14–17).
+Open to teams, collaboration and bold opportunities.
